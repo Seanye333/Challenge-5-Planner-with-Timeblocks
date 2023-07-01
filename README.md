@@ -1,5 +1,4 @@
 # Challenge-5-Planner-with-Timeblocks
-## Challenge-5-Planner-with-Timeblocks
 ## Link to application 
 https://seanye333.github.io/Challenge-5-Planner-with-Timeblocks/ 
 
